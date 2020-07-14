@@ -1,6 +1,6 @@
 # Drug-Reactions-for-COVID-19-Treatment
 
-This repository contains our paper: “Identifying Side Effects of Some Drugs Used in Covid-19 Treatment” and the data used in this paper.
+This repository contains our paper and the data used in this paper: “Identifying Side Effects of Some Drugs Used in Covid-19 Treatment”
  
 Please take a look at the other resources used in this study:
 
